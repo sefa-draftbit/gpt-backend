@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Yarn
+.yarn-cache
+.yarn-debug.log
+.yarn-integrity
+
+# Environment variables
+.env
+
+# TypeScript
+dist/
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
